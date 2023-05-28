@@ -1,14 +1,14 @@
-# PassGeneration-py
-`PassGeneration-py` Generates A Password.
+# PassGeneration
+`PassGeneration` Generates A Password.
 
 ## Installation
 ```
-python -m pip install passgeneration-py
+python -m pip install passgeneration
 ```
 
 ## Usage
 ```
-passgeneration-py.generate(length=8, upper=True, lower=True, numbers=True, special=True)
+passgeneration.generate(length=8, upper=True, lower=True, numbers=True, special=True)
 ```
 
 ## License
